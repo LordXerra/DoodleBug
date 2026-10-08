@@ -64,5 +64,6 @@ start squares). The rules are listed in the comment above maze 2 in the source.
 * Original game: **Doodle Bug**, © Mastertronic
 * Disassembly, comments, new mazes, music and fixes: Tony Brice
 
-This is a fan edition built from a disassembly of a commercial game. Make sure you have the
-right to distribute it before publishing any build.
+This is a fan edition built from a disassembly of a commercial game. I will remove this repository
+if any owner of this property requests it.
+
